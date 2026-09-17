@@ -2,8 +2,6 @@
 
 ## Curso 2026-2027
 
-Empezamos a trabajar con git en remoto.
+# Definiciones:
 
-Modificación desde GitHub.
-
-### Cambios desde local
+- Algoritmo
